@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book>
+		<title>Elantris</title>
+		<author>Brandon Sanderson</author>
+		<gender>fantasy</gender>
+		<image>Elantris.jpg</image>
+		<url>https://en.wikipedia.org/wiki/Elantris</url>
+		<description>Elantris is a fantasy novel written by American fantasy and science fiction writer Brandon Sanderson. The book was published on April 21, 2005, by Tor Books and was Sanderson's first published book. The book gained generally positive reviews, and has been translated into multiple languages.</description>
+		<summary>Elantris was once a place of magic, and the immortal Elantrians were gods in the eyes of people, with the divine ability to create and heal with a mere wave of a hand. Anyone in Arelon had the potential to become an Elantrian through a magical transformation known as the Shaod. But ten years ago, a cataclysm known as the Reod somehow destroyed the magic of Elantris, the inhabitants of the city became "cursed," and the city was sealed off from society. Anyone affected by the Shaod is now thrown into Elantris to stay there forever, still immortal, but cursed with unquenchable hunger and unhealable pain.</summary>
+	</book>
+	<book>
+		<title>Everything, Everything</title>
+		<author>Nicola Yoon</author>
+		<gender>young adult fiction</gender>
+		<image>Everything, Everything.jpg</image>
+		<url>https://en.wikipedia.org/wiki/Everything,_Everything_(novel)</url>
+		<description>Everything, Everything is the debut young adult novel by Jamaican-American author Nicola Yoon, first published by Delacorte Books for Young Readers in 2015. The novel centers on 18-year-old Madeline Whittier, who is being treated for severe combined immunodeficiency (SCID), also known as "bubble baby disease". Due to this, Madeline is kept inside her house in Los Angeles, where she lives with her mother, a doctor.</description>
+		<summary>The story follows 18-year-old Madeline Whittier a half Japanese, half African-American 18-year-old who is being treated by her doctor mother for severe combined immunodeficiency (SCID), and therefore is not allowed to leave her house or interact with anything that has not been "sanitized". Her world consists of her mother Pauline, her nurse Carla, and the books she finds comfort in; with her father and brother having died a long time ago in a car accident. Maddy's life changes when a family moves in next door. She watches them from the window and learns that the family includes a father, mother, daughter named Kara, and a son named Olly. Olly befriends Maddy, and the two begin to message each other online. Meanwhile, Olly's father is abusive and Kara has a smoking problem.</summary>
+	</book>
+	<book>
+		<title>The silent patient</title>
+		<author>Alex Michaelides</author>
+		<gender>psychological thriller</gender>
+		<image>The silent patient.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Silent_Patient</url>
+		<description>The Silent Patient is a 2019 psychological thriller novel written by British–Cypriot author Alex Michaelides. The debut novel was published by Celadon Books, a division of Macmillan Publishers, on 5 February 2019. The audiobook version, released on the same date, is read by Louise Brealey and Jack Hawkins. The story is narrated by an English psychotherapist, Theo Faber, dealing with a patient who turns mute after murdering her husband. It won the Goodreads Choice Award 2019 in the Mystery and Thriller category.</description>
+		<summary>Alicia Berenson, a famous painter, is held guilty for the murder of her husband, photographer Gabriel Berenson. Due to a plea of diminished responsibility, she is admitted to a secure forensic unit called the Grove. Theo Faber, a forensic psychotherapist with a keen interest in the Berenson case, successfully applies for a position at the Grove. At his request, he is placed in charge of Alicia, who has not spoken since the day of the murder. Although she remains mute during their therapy sessions, Alicia gives Theo her diary. In it, she describes being watched in her home by a masked man in the weeks before the murder. Theo, in the meantime, discovers that his wife, Kathy, is having an extramarital affair with an unknown person.</summary>
+	</book>
+	<book>
+		<title>The sun is also a star</title>
+		<author>Nicola Yoon</author>
+		<gender>young adult</gender>
+		<image>The sun is also a star.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Sun_Is_Also_a_Star_(novel)</url>
+		<description>The Sun Is Also a Star is a young adult novel by American author Nicola Yoon, published November 1, 2016, by Delacorte Press. The book follows two characters, one of whom is about to be deported, and explores “the ways in which we are all connected and the ways in which people across all walks of life have much more in common than they think they do.”</description>
+		<summary>The Sun Is Also a Star follows two teenagers in New York City, Natasha Kingsley and Daniel Bae. Natasha is an undocumented immigrant from Jamaica living in Brooklyn who learns that her family will be deported. Daniel is the son of Korean immigrants living in Harlem. Daniel is a poet resisting his parents' dream of him becoming a doctor, and Natasha is science-minded. Natasha seeks help from an immigration lawyer, who tells her he has an appointment later in the day, then visits a record store, where she meets Daniel, who is in the city before a college admissions interview. The two teenagers spend the next several hours together, during which time they frequently discuss love and destiny, concepts they have differing opinions on. When the time arrives, they head to their respective appointments, where they learn both of them were slotted to meet the same person.</summary>
+	</book>
+	<book>
+		<title>The call of the wild</title>
+		<author>Jack London</author>
+		<gender>adventure</gender>
+		<image>The call of the wild.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Call_of_the_Wild</url>
+		<description>The Call of the Wild is a short adventure novel by Jack London, published in 1903 and set in Yukon, Canada, during the 1890s Klondike Gold Rush, when strong sled dogs were in high demand. </description>
+		<summary>The story opens in 1897 with Buck, a powerful 140-pound St. Bernard–Scotch Collie mix,[1][2] happily living in California's Santa Clara Valley as the pampered pet of Judge Miller and his family. One night, assistant gardener Manuel, needing money to pay off gambling debts, steals Buck and sells him to a stranger. Buck is shipped to Seattle where he is confined in a crate, starved, and ill-treated. When released, Buck attacks his handler, the "man in the red sweater", who teaches Buck the "law of club and fang", sufficiently cowing him. The man shows some kindness after Buck demonstrates obedience.</summary>
+	</book>
+	<book>
+		<title>Pride and prejudice</title>
+		<author>Jane Austen</author>
+		<gender>fiction, romance</gender>
+		<image>Pride and prejudice.jpg</image>
+		<url>https://en.wikipedia.org/wiki/Pride_and_Prejudice</url>
+		<description>Pride and Prejudice is an 1813 novel of manners written by Jane Austen. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book who learns about the repercussions of hasty judgments and comes to appreciate the difference between superficial goodness and actual goodness.</description>
+		<summary>In rural England in the early 19th century, Mrs. Bennet attempts to persuade Mr. Bennet to visit Mr. Bingley, a rich bachelor recently arrived in the neighbourhood. After some verbal sparring with her husband, Mrs. Bennet believes he will not call on Mr. Bingley. Shortly afterwards, he visits Netherfield, Mr. Bingley's rented residence, much to Mrs. Bennet's delight. The visit is followed by a ball at the local assembly rooms that the entire neighbourhood attends. At the ball, the neighbourhood is introduced to the whole Netherfield party, which consists of Mr. Bingley, his two sisters, the husband of one of his sisters, and Mr. Darcy, his dearest friend. Mr. Bingley's friendly and cheerful manner earns him popularity among the guests. </summary>
+	</book>
+	<book>
+		<title>The adventures of Tom Sawyer</title>
+		<author>Mark Twain</author>
+		<gender>adventure fiction</gender>
+		<image>The adventures of Tom Sawyer.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer</url>
+		<description>The Adventures of Tom Sawyer is an 1876 novel by Mark Twain about a boy growing up along the Mississippi River. It is set in the 1840s in the town of St. Petersburg, which is based on Hannibal, Missouri, where Twain lived as a boy. In the novel, Tom Sawyer has several adventures, often with his friend Huckleberry Finn. Originally a commercial failure, the book ended up being the best selling of any of Twain's works during his lifetime.</description>
+		<summary>Tom Sawyer is an orphan; who lives with his aunt, Polly and his half-brother, Sid in the town of St. Petersburg, Missouri, sometime in the 1840s. A fun-loving boy, Tom skips school to go swimming and is made to whitewash his aunt's fence for the entirety of the next day, saturday as punishment. In one of the most famous scenes in American literature, Tom cleverly persuades the several neighborhood children to trade him small trinkets and treasures for the "privilege" of doing his tedious work, using reverse psychology to convince them it is an enjoyable activity.</summary>
+	</book>
+	<book>
+		<title>The last unicorn</title>
+		<author>Peter S.Beagle</author>
+		<gender>fantasy</gender>
+		<image>The last unicorn.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Last_Unicorn</url>
+		<description>The Last Unicorn is a fantasy novel by American author Peter S. Beagle and published in 1968, by Viking Press in the U.S. and The Bodley Head in the U.K. It follows the tale of a unicorn, who believes she is the last of her kind in the world and undertakes a quest to discover what has happened to the others.</description>
+		<summary>The story begins with a group of human hunters passing through a forest in search of game. After days of coming up empty-handed, they begin to believe they are passing through a Unicorn's forest, where animals are kept safe by a magical aura. They resign themselves to hunting somewhere else; but, before they leave, one of the hunters calls out a warning to the Unicorn that she may be the last of her kind. This revelation disturbs the Unicorn, and though she initially dismisses it, eventually doubt and worry drive her to leave her forest. She travels through the land and discovers that humans no longer even recognize her; instead they see a pretty white mare.</summary>
+	</book>
+	<book>
+		<title>The way of kings</title>
+		<author>Brandon Sanderson</author>
+		<gender>epic fantasy</gender>
+		<image>The way of kings.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Way_of_Kings</url>
+		<description>The Way of Kings is an epic fantasy novel written by American author Brandon Sanderson and the first book in The Stormlight Archive series. The novel was published on August 31, 2010, by Tor Books. The Way of Kings consists of one prelude, one prologue, 75 chapters, an epilogue and 9 interludes. It was followed by Words of Radiance in 2014, Oathbringer in 2017 and Rhythm of War in 2020. A leatherbound edition was released in 2021.</description>
+		<summary>The story rotates between the points of view of Kaladin, Shallan Davar, Szeth-son-son-Vallano, Dalinar Kholin, Adolin Kholin, and several other minor characters, who lead seemingly unconnected lives. Szeth, a Shin man cast out by his people and condemned to obey his constantly changing masters, is sent to assassinate the king of one of the world's most powerful nations, Alethkar. As the story progresses, he continuously changes hands, doing his best to hide the fact that he possesses an Honorblade, a mythical blade used by the Heralds that can cut through any material. He also possesses access to powers that are no longer available to normal humans (“Surgebinding”), once possessed by the Knights Radiant and thought lost, making him incredibly difficult to defeat in battle.</summary>
+	</book>
+	<book>
+		<title>Gardens of the moon</title>
+		<author>Steven Erikson</author>
+		<gender>fantasy</gender>
+		<image>Gardens of the Moon.jpg</image>
+		<url>https://en.wikipedia.org/wiki/Gardens_of_the_Moon</url>
+		<description>Gardens of the Moon is the first of ten novels in Canadian author Steven Erikson's high fantasy series the Malazan Book of the Fallen. It was first published in April 1, 1999 and was nominated for a World Fantasy Award. It received mixed to positive reviews, with critics praising the tone, characters, and overarching story. The book sold over a million copies in a month.</description>
+		<summary>The novel opens in the 96th year of the Malazan Empire, during the final year of the rule of Emperor Kellanved. Ganoes Paran, age 12, witnesses the sacking of the Mouse Quarter of Malaz City. Paran wants to be a soldier when he grows older, though the veteran soldier Whiskeyjack disapproves. Seven years later, the Emperor and his ally, Dancer, have been assassinated and supplanted by the chief of the assassin corps. Empress Laseen now rules with the aid of the Claw, the imperial assassins. The story opens several years into a series of wars by the Malazan Empire to conquer the continent of Genabackis.</summary>
+	</book>
+	<book>
+		<title>Jade city</title>
+		<author>Fonda Lee</author>
+		<gender>fantasy</gender>
+		<image>Jade City</image>
+		<url>https://en.wikipedia.org/wiki/Jade_City_(novel)</url>
+		<description>Jade City is a 2017 fantasy novel by Fonda Lee. It won the World Fantasy Award in 2018 and is the first in the Green Bone Saga. It was followed by Jade War in 2019 and Jade Legacy in 2021.</description>
+		<summary>Bero, a minor thief, attempts to steal jade from a No Peak Fist while he is dining in a clan-affiliated restaurant, but Bero and his Abukei accomplice Sampa are quickly caught and brought to Hilo for punishment. After they are beaten, a remark by Sampa about a recent murder in clan territory leads Hilo to take the two boys to be questioned in the presence of his brother Lan, the clan Pillar. Hilo attempts to convince Lan that the Mountain clan is squeezing No Peak territory, but he is opposed by Doru the Weather Man, who suggests it is a misunderstanding and counsels a peaceful solution. Feeling frustrated and unsupported by Doru, Lan asks his grandfather for permission to replace him as Weather Man, but Kaul Sen refuses to allow it. A short time after this, Shae returns to Kekon, looking for a job that will not require her to wear jade.</summary>
+	</book>
+	<book>
+		<title>The notebook</title>
+		<author>Nicholas Sparks</author>
+		<gender>romance</gender>
+		<image>The notebook.jpg</image>
+		<url>https://en.wikipedia.org/wiki/The_Notebook_(novel)</url>
+		<description>The Notebook is a 1996 romantic novel by American novelist Nicholas Sparks. The novel was later adapted into a popular 2004 film of the same name.</description>
+		<summary>In 1940s South Carolina, mill worker Noah Calhoun and rich girl Allie are desperately in love. But her parents don't approve. When Noah goes off to serve in World War II, it seems to mark the end of their love affair. In the interim, Allie becomes involved with another man (James Marsden). But when Noah returns to their small town years later, on the cusp of Allie's marriage, it soon becomes clear that their romance is anything but over.</summary>
+	</book>
+</books>
